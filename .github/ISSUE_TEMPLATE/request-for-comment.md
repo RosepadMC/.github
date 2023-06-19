@@ -2,7 +2,7 @@
 name: Request For Comment
 about: A suggestion or something else that needs discussion
 title: "[RFC] "
-labels: bug, enhancement
+labels: enhancement
 assignees: ''
 
 ---
